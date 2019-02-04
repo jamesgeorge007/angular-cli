@@ -88,7 +88,7 @@
     "@types/node": "8.10.10",
     "@types/request": "^2.47.1",
     "@types/semver": "^5.5.0",
-    "@types/source-map": "0.5.2",
+    "@types/source-map": "0.5.7",
     "@types/webpack": "^4.4.11",
     "@types/webpack-dev-server": "^3.1.0",
     "@types/webpack-sources": "^0.1.5",
